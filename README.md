@@ -17,11 +17,7 @@ This project develops an automated system for evaluating descriptive and short-a
 - **Comparative Performance**: Outperforms traditional TF-IDF and other ensemble methods.
 - **Scalability**: Lightweight and deployable on standard cloud infrastructure.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/automated-answer-evaluation.git
-   Dataset
+Dataset
 The project leverages two publicly available benchmark datasets for training and evaluation:
 
 Mohler Dataset: Focuses on Computer Science questions, providing question-answer pairs with human-labeled correctness scores.
